@@ -1,0 +1,2829 @@
+* {
+    font-family: Helvetica !important
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    max-height: 100%;
+    max-width: 100%;
+    overflow-x: hidden !important;
+}
+
+.container-fluid {
+    padding: 0 !important;
+}
+
+#navbarDiv {
+    height: 60px;
+    background: #000000 0% 0% no-repeat padding-box;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 0.9 !important;
+}
+
+.position {
+    position: absolute;
+}
+
+#firstImage {
+    /* height: 800px; */
+    width: 100%;
+}
+
+#firstImageTxt {
+    position: absolute !important;
+    top: 269px;
+    left: 174px;
+    width: 503px;
+    height: 201px;
+    text-align: left;
+    /* font: Medium 50px/58px Helvetica Now Display; */
+    font-size: 50px;
+    line-height: 58px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+.firstImageButton {
+    position: absolute !important;
+    top: 481px;
+    left: 174px;
+    width: 203px;
+    height: 41px;
+    border: 1px solid var(--unnamed-color-000000);
+    border: 1px solid #000000;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+.button1 {
+    background-color: transparent;
+    border-color: rgb(10, 10, 10);
+    color: #000000;
+}
+
+/*  second  */
+
+#secondImageDiv {
+    max-width: 100%;
+}
+
+.card {
+    /* top: 731px; */
+    /* left: 168px; */
+    /* width: 352px; */
+    height: auto;
+    background: transparent linear-gradient(180deg, #FFFFFF 0%, #F5F5F5 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    /* padding : 57px ; */
+}
+
+.cardTitle {
+    /* top: 1073px;
+left: 197px;
+width: 295px;
+height: 116px; */
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: Medium 36px/42px Helvetica Now Display;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.cardText {
+    /* top: 1173px;
+    left: 197px;
+    width: 283px;
+    height: 69px; */
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    /* font: Medium 14px/18px Helvetica Now Display; */
+    font-size: 14px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+/* third  */
+
+#thirdImageDiv {
+    max-width: 100%;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    /* top:;
+    position:absolute; */
+}
+
+#thirdImageTxt {
+    position: absolute !important;
+    top: 1559px;
+    left: 168px;
+    width: 683px;
+    height: 293px;
+    text-align: left;
+    /* font: Medium 46px/52px Helvetica Now Display !important; */
+    font-size: 46px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#thirdImageTxt2 {
+    position: absolute !important;
+    top: 1915px;
+    left: 168px;
+    width: 364px;
+    height: 65px;
+    text-align: left;
+    /* font: Medium 26px/32px Helvetica Now Display; */
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+.thirdImageButton {
+    position: absolute !important;
+    top: 1984px;
+    left: 168px;
+    width: 147px;
+    height: 41px;
+    border: 1px solid #262626;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+#thirdImageTxt31 {
+    position: absolute;
+    top: 2558px;
+    left: 168px;
+    width: 525px;
+    height: 222px;
+    text-align: left;
+    /* font: Medium 80px/88px Helvetica Now Display; */
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#thirdImageTxt32 {
+    position: absolute;
+    top: 2580px;
+    left: 920px;
+    width: 352px;
+    height: 221px;
+    text-align: left;
+    /* font: Medium 26px/32px Helvetica Now Display; */
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+/* fourth  */
+
+#fourthImage1 {
+    max-width: 50%;
+}
+
+#fourthImage2 {
+    max-width: 50%;
+}
+
+.fourthImageDiv {
+    top: 2830px;
+}
+
+#fourthImageTxt1 {
+    position: absolute;
+    top: 3200px;
+    left: 280px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 46px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#fourthImageTxt2 {
+    position: absolute;
+    top: 3200px;
+    left: 750px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 46px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+.videoDiv {
+    position: absolute;
+    top: 3800px;
+    max-width: 75%;
+}
+
+#videoTxt31 {
+    position: absolute;
+    top: 4100px;
+    left: 255px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 120px;
+    line-height: 128px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#videoTxt32 {
+    position: absolute;
+    top: 4100px;
+    left: 826px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font: normal normal medium 26px/32px Helvetica Now Display;
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.videoButton {
+    position: absolute;
+    top: 4300px;
+    left: 826px;
+    width: 147px;
+    height: 41px;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    opacity: 1;
+    color: #FFFFFF;
+}
+
+#fifthImageDiv {
+    position: absolute;
+    top: 4536px;
+}
+
+#fifthImageTxt1 {
+    position: absolute;
+    top: 10px;
+    left: 162px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 46px;
+    line-height: 52px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#fifthImageTxt2 {
+    position: absolute;
+    top: 100px;
+    left: 162px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 200px;
+    line-height: 52px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#fifthImageTxt31 {
+    position: absolute;
+    top: 200px;
+    left: 920px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#fifthImageTxt32 {
+    position: absolute;
+    top: 410px;
+    left: 920px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 46px;
+    line-height: 72px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#fifthImageTxt33 {
+    position: absolute;
+    top: 650px;
+    left: 920px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+.fifthImagebutton {
+    position: absolute;
+    top: 750px;
+    left: 920px;
+    width: auto;
+    height: auto;
+    border: 1px solid #262626;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+#sixthImageDiv {
+    position: absolute;
+    top: 5600px;
+    max-width: 100%;
+}
+
+#sixthImage {
+    margin-left: 10%;
+    max-width: 90%;
+}
+
+#sixthImageTxt1 {
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#sixthImageTxt2 {
+    position: absolute;
+    top: 170px;
+    left: 100px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 350px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#sixthImageTxt3 {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+.sixthImagebutton {
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    width: auto;
+    height: auto;
+    border: 1px solid #262626;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+#seventhImageDiv {
+    position: absolute;
+    top: 6583px;
+}
+
+#seventhImageTxt1 {
+    position: absolute;
+    top: 100px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#seventhImageTxt2 {
+    position: absolute;
+    top: 600px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 46px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.seventhImagebutton {
+    position: absolute;
+    top: 850px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    opacity: 1;
+    color: #FFFFFF;
+}
+
+#eightImageDiv {
+    position: absolute;
+    top: 7850px;
+}
+
+#eightImageTxt1 {
+    position: absolute;
+    top: 100px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#eightImageTxt2 {
+    position: absolute;
+    top: 600px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 46px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+.eightImagebutton {
+    position: absolute;
+    top: 850px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    border: 1px solid #262626;
+    border-radius: 3px;
+    opacity: 1;
+    color: #262626;
+}
+
+#ninthImageDiv {
+    position: absolute;
+    top: 8860px;
+}
+
+#ninthImageTxt1 {
+    position: absolute;
+    top: 100px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#ninthImageTxt2 {
+    position: absolute;
+    top: 600px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 46px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.ninthImagebutton {
+    position: absolute;
+    top: 850px;
+    left: 168px;
+    width: auto;
+    height: auto;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    opacity: 1;
+    color: #FFFFFF;
+}
+
+#tenthImageDiv {
+    position: absolute;
+    top: 10000px;
+    max-width: 100%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#tenthImageTxt1 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 160px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    opacity: 1;
+    top: 20%;
+    left: 4%;
+    color: #FFFFFF;
+}
+
+#tenthImageTxt2 {
+    position: absolute;
+    top: 55%;
+    left: 4%;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    opacity: 1;
+    color: #FFFFFF;
+}
+
+.tenthImagebutton {
+    position: absolute;
+    top: 85%;
+    left: 4%;
+    width: auto;
+    height: auto;
+    border-radius: 3px;
+    opacity: 1;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+#eleventhImage1 {
+    max-width: 50%;
+}
+
+#eleventhImage2 {
+    max-width: 50%;
+}
+
+.eleventhImageDiv {
+    position: absolute;
+    max-width: 100%;
+    left: 12%;
+    width: 70%;
+}
+
+#eleventhImageTxt1 {
+    position: absolute;
+    top: 60%;
+    left: 3%;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 80px;
+    line-height: 88px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#eleventhImageTxt2 {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 80px;
+    line-height: 88px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.eleventhImagebutton {
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    width: auto;
+    height: auto;
+    color: #FFFFFF;
+    opacity: 1;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+}
+
+#twelthImageDiv {
+    position: absolute;
+    overflow-x: hidden !important;
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+#twelthImageTxt1 {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+#twelthImageTxt2 {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+/*  form */
+
+#form {
+    position: absolute;
+    top: 65%;
+}
+
+#Name {
+    width: 270px;
+    height: 49px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    background-color: #ffffff !important;
+    border-color: #9A9CA3;
+    border-width: thin;
+}
+
+#industry {
+    width: 275px;
+    height: 49px;
+    text-align: left;
+    /* font: Medium 22px/32px Helvetica Now Display; */
+    font-size: medium;
+    letter-spacing: 0px;
+    color: #9A9CA3;
+    opacity: 1 !important;
+    background-color: #ffffff !important;
+    border-color: #9A9CA3;
+    border-width: thin;
+}
+
+#email {
+    width: 579px;
+    height: 49px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1 !important;
+    background-color: #ffffff !important;
+    border-color: #9A9CA3;
+    border-width: thin;
+}
+
+#submitButton {
+    width: 135px;
+    height: 39px;
+    text-align: center;
+    /* font: Medium 22px/32px Helvetica Now Display; */
+    font-size: medium;
+    letter-spacing: 0px;
+    color: #f5f5f5 !important;
+    opacity: 1 !important;
+    background-color: #000000 !important;
+    background: #000000 !important;
+    border-color: #9A9CA3;
+    border-width: thin;
+}
+
+/*  */
+
+#thirteenthImageDiv {
+    position: absolute;
+    top: 12600px;
+    max-width: 100%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#thirteenthImageTxt1 {
+    position: absolute;
+    top: 65%;
+    left: 4%;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 26px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    opacity: 1;
+    color: #FFFFFF;
+}
+
+.thirteenthImagebutton {
+    position: absolute;
+    top: 65%;
+    left: 65%;
+    width: auto;
+    height: auto;
+    border-radius: 3px;
+    opacity: 1;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+.footer {
+    position: absolute;
+    top: 13000px;
+    margin-left: 10%;
+}
+
+.follow {
+    width: auto;
+    height: auto;
+    text-align: left;
+    /* font: normal normal medium 24px/32px Helvetica Now Display; */
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0px;
+    color: #262626;
+    opacity: 1;
+}
+
+.iconSocial {
+    width: auto;
+    height: auto;
+    opacity: 0.75;
+}
+
+.txtFooter {
+    text-align: left;
+    /* font: normal normal normal 12px/18px Helvetica Now Display; */
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    color: #272727;
+    opacity: 1;
+}
+
+.nav-link {
+    text-align: left;
+    /* font: normal normal medium 14px/18px Helvetica Now Display; */
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    z-index: 10000;
+}
+
+.navSmallLink {
+    /* margin-left: 60%; */
+    /* font: normal normal normal 10px/18px Helvetica Now Display; */
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: 1.5px;
+    color: #FBFBFB;
+}
+
+
+
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/* ======================================================================================================= */
+
+/*==========media queries starts here======================================================================*/
+
+@media only screen and (min-width: 320px) {
+    #firstImageTxt {
+        font-size: 14px;
+        line-height: 20px;
+        top: 110px;
+        width: auto;
+        height: auto;
+        left: 20px;
+    }
+    .firstImageButton {
+        font-size: 10px;
+        top: 180px;
+        width: auto;
+        height: auto;
+        left: 20px;
+        padding: 0.5px;
+    }
+    #thirdImageTxt {
+        font-size: 10px;
+        line-height: 16px;
+        top: 1900px;
+        left: 35px;
+        width: auto;
+        height: auto;
+    }
+    #thirdImageTxt2 {
+        top: 2000px;
+        left: 35px;
+        width: auto;
+        height: auto;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .thirdImageButton {
+        top: 2020px;
+        left: 35px;
+        width: auto;
+        height: auto;
+        padding: 0.5px;
+        font-size: xx-small
+    }
+    #thirdImageTxt31 {
+        top: 2100px;
+        left: 10px;
+        width: auto;
+        height: auto;
+        font-size: 30px;
+        line-height: 28px;
+    }
+    #thirdImageTxt32 {
+        top: 2100px;
+        left: 150px;
+        width: auto;
+        height: auto;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    #fourthImage1 {
+        max-width: 100%;
+    }
+    #fourthImage2 {
+        max-width: 100%;
+    }
+    #fourthImageTxt1 {
+        top: 2250px;
+        left: 40px;
+    }
+    #fourthImageTxt2 {
+        top: 2550px;
+        left: 50px;
+    }
+    .videoDiv {
+        top: 2850px;
+        max-width: 90%;
+    }
+    #videoTxt31 {
+        top: 2890px;
+        left: 20px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    #videoTxt32 {
+        top: 2890px;
+        left: 170px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .videoButton {
+        top: 2960px;
+        left: 170px;
+        width: auto;
+        height: auto;
+        padding: 0.5px;
+        font-size: xx-small
+    }
+    #fifthImageTxt1 {
+        top: 10px;
+        left: 50px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #fifthImageTxt2 {
+        top: 30px;
+        left: 50px;
+        font-size: 40px;
+        line-height: 22px;
+    }
+    #fifthImageDiv {
+        top: 3100px;
+    }
+    #fifthImageTxt31 {
+        top: 60px;
+        left: 200px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    #fifthImageTxt32 {
+        top: 130px;
+        left: 220px;
+        font-size: 10px;
+        line-height: 25px;
+    }
+    #fifthImageTxt33 {
+        top: 220px;
+        left: 210px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .fifthImagebutton {
+        top: 250px;
+        left: 210px;
+        padding: 0.5px;
+        font-size: xx-small
+    }
+    #sixthImageDiv {
+        top: 3450px;
+    }
+    #sixthImageTxt1 {
+        top: 1px;
+        left: 20px;
+        font-size: 20px;
+        line-height: 38px;
+    }
+    #sixthImageTxt2 {
+        top: 60px;
+        left: 20px;
+        font-size: 80px;
+        line-height: 16px;
+    }
+    #sixthImageTxt3 {
+        top: 120px;
+        left: 20px;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .sixthImagebutton {
+        top: 200px;
+        left: 20px;
+        padding: 0.5px;
+        font-size: x-small;
+    }
+    #seventhImageDiv {
+        position: absolute;
+        top: 3740px;
+    }
+    #seventhImageTxt1 {
+        top: 20px;
+        left: 20px;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    #seventhImageTxt2 {
+        top: 100px;
+        left: 20px;
+        font-size: 8px;
+        line-height: 16px;
+    }
+    .seventhImagebutton {
+        padding: 0.5px;
+        font-size: xx-small;
+        top: 180px;
+        left: 20px;
+    }
+    #eightImageDiv {
+        position: absolute;
+        top: 3965px;
+    }
+    #eightImageTxt1 {
+        top: 20px;
+        left: 20px;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    #eightImageTxt2 {
+        top: 100px;
+        left: 20px;
+        font-size: 8px;
+        line-height: 16px;
+    }
+    .eightImagebutton {
+        padding: 0.5px;
+        font-size: xx-small;
+        top: 190px;
+        left: 20px;
+    }
+    #ninthImageDiv {
+        top: 4190px;
+    }
+    #ninthImageTxt1 {
+        top: 20px;
+        left: 8%;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    #ninthImageTxt2 {
+        top: 100px;
+        left: 50%;
+        font-size: 8px;
+        line-height: 16px;
+    }
+    .ninthImagebutton {
+        padding: 0.5px;
+        font-size: xx-small;
+        top: 190px;
+        left: 50%;
+    }
+    #tenthImageDiv {
+        top: 4460px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #tenthImageTxt1 {
+        font-size: 50px;
+        line-height: 12px;
+        top: 20%;
+        left: 5%;
+    }
+    #tenthImageTxt2 {
+        top: 50%;
+        left: 5%;
+        text-align: left;
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .tenthImagebutton {
+        top: 92%;
+        left: 5%;
+        padding: 0.5px;
+        font-size: xx-small;
+    }
+    #eleventhImage1 {
+        max-width: 90%;
+        width: 80%;
+    }
+    #eleventhImage2 {
+        max-width: 90%;
+        width: 80%;
+    }
+    .eleventhImageDiv {
+        top: 4700px;
+        max-width: 90%;
+        width: 88%;
+    }
+    #eleventhImageTxt1 {
+        top: 20%;
+        left: 10%;
+        font-size: 40px;
+        line-height: 58px;
+    }
+    #eleventhImageTxt2 {
+        top: 60%;
+        left: 10%;
+        font-size: 40px;
+        line-height: 58px;
+    }
+    .eleventhImagebutton {
+        top: 90%;
+        left: 10%;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #twelthImageDiv {
+        top: 5160px;
+    }
+    #twelthImageTxt1 {
+        top: 20%;
+        left: 5%;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    #twelthImageTxt2 {
+        top: 35%;
+        left: 5%;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    #form {
+        position: relative;
+        top: 100%;
+        width: 100%
+    }
+    #Name {
+        width: 100%;
+    }
+    #industry {
+        width: 100%;
+    }
+    #email {
+        width: 100%;
+    }
+    #submitButton {
+        width: 100%;
+        font-size: small;
+    }
+    #thirteenthImageDiv {
+        top: 5660px;
+    }
+    #thirteenthImageTxt1 {
+        top: 65%;
+        left: 4%;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .thirteenthImagebutton {
+        top: 65%;
+        left: 50%;
+        padding: 0.5px;
+        font-size: xx-small;
+    }
+    .footer {
+        top: 5800px;
+        margin-left: 5%;
+    }
+}
+
+@media only screen and (min-width: 576px) {
+    #firstImageTxt {
+        text-align: left;
+        font-size: 32px;
+        /* font-size: 50px;*/
+        line-height: 28px;
+        top: 100px;
+        width: auto;
+        height: auto;
+        left: 60px;
+    }
+    .firstImageButton {
+        font-size: 16px;
+        top: 220px;
+        width: auto;
+        height: auto;
+        left: 60px;
+        padding: .375rem .75rem;
+        font-size: xx-small;
+    }
+    #thirdImageTxt {
+        font-size: 16px;
+        line-height: 22px;
+        top: 2530px;
+        left: 100px;
+        width: auto;
+        height: auto;
+    }
+    #thirdImageTxt2 {
+        top: 2660px;
+        left: 100px;
+        width: auto;
+        height: auto;
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .thirdImageButton {
+        top: 2700px;
+        left: 100px;
+        width: auto;
+        height: auto;
+        padding: .375rem .75rem;
+        font-size: xx-small
+    }
+    #thirdImageTxt31 {
+        top: 2900px;
+        left: 25px;
+        width: auto;
+        height: auto;
+        font-size: 40px;
+        line-height: 38px;
+    }
+    #thirdImageTxt32 {
+        top: 2900px;
+        left: 350px;
+        width: auto;
+        height: auto;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    #fourthImage1 {
+        max-width: 100%;
+    }
+    #fourthImage2 {
+        max-width: 100%;
+    }
+    #fourthImageTxt1 {
+        top: 3100px;
+        left: 150px;
+    }
+    #fourthImageTxt2 {
+        top: 3600px;
+        left: 170px;
+    }
+    .videoDiv {
+        top: 4100px;
+        max-width: 85%;
+    }
+    #videoTxt31 {
+        top: 4200px;
+        left: 70px;
+        font-size: 50px;
+        line-height: 60px;
+    }
+    #videoTxt32 {
+        top: 4200px;
+        left: 330px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .videoButton {
+        top: 4310px;
+        left: 330px;
+        width: auto;
+        height: auto;
+        padding: 0.5px;
+        font-size: x-small
+    }
+    #fifthImageTxt1 {
+        top: 5px;
+        left: 90px;
+        font-size: 26px;
+        line-height: 42px;
+    }
+    #fifthImageTxt2 {
+        top: 60px;
+        left: 90px;
+        font-size: 100px;
+        line-height: 22px;
+    }
+    #fifthImageDiv {
+        top: 4500px;
+    }
+    #fifthImageTxt31 {
+        top: 130px;
+        left: 390px;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    #fifthImageTxt32 {
+        top: 230px;
+        left: 390px;
+        font-size: 20px;
+        line-height: 35px;
+    }
+    #fifthImageTxt33 {
+        top: 340px;
+        left: 390px;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .fifthImagebutton {
+        top: 390px;
+        left: 390px;
+        padding: .375rem .75rem;
+        font-size: x-small;
+    }
+    #sixthImageDiv {
+        top: 5000px;
+    }
+    #sixthImageTxt1 {
+        top: 5px;
+        left: 20px;
+        font-size: 40px;
+        line-height: 48px;
+    }
+    #sixthImageTxt2 {
+        top: 110px;
+        left: 20px;
+        font-size: 150px;
+        line-height: 22px;
+    }
+    #sixthImageTxt3 {
+        top: 210px;
+        left: 20px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .sixthImagebutton {
+        top: 300px;
+        left: 20px;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #seventhImageDiv {
+        position: absolute;
+        top: 5510px;
+    }
+    #seventhImageTxt1 {
+        top: 30px;
+        left: 70px;
+        font-size: 40px;
+        line-height: 48px;
+    }
+    #seventhImageTxt2 {
+        top: 250px;
+        left: 70px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .seventhImagebutton {
+        padding: .375rem .75rem;
+        font-size: small;
+        top: 350px;
+        left: 70px;
+    }
+    #eightImageDiv {
+        position: absolute;
+        top: 5915px;
+    }
+    #eightImageTxt1 {
+        top: 30px;
+        left: 70px;
+        font-size: 40px;
+        line-height: 48px;
+    }
+    #eightImageTxt2 {
+        top: 230px;
+        left: 70px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .eightImagebutton {
+        padding: .375rem .75rem;
+        font-size: small;
+        top: 360px;
+        left: 70px;
+    }
+    #ninthImageDiv {
+        top: 6320px;
+    }
+    #ninthImageTxt1 {
+        top: 30px;
+        left: 12%;
+        font-size: 40px;
+        line-height: 48px;
+    }
+    #ninthImageTxt2 {
+        top: 230px;
+        left: 50%;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .ninthImagebutton {
+        padding: .375rem .75rem;
+        font-size: small;
+        top: 360px;
+        left: 50%;
+    }
+    #tenthImageDiv {
+        top: 6800px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #tenthImageTxt1 {
+        font-size: 80px;
+        line-height: 22px;
+        top: 20%;
+        left: 5%;
+    }
+    #tenthImageTxt2 {
+        top: 55%;
+        left: 5%;
+        text-align: left;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .tenthImagebutton {
+        top: 93%;
+        left: 5%;
+        padding: .170rem .75rem;
+        font-size: x-small;
+    }
+    #eleventhImage1 {
+        max-width: 90%;
+        width: 80%;
+    }
+    #eleventhImage2 {
+        max-width: 90%;
+        width: 80%;
+    }
+    .eleventhImageDiv {
+        top: 7200px;
+        max-width: 100%;
+        width: 100%;
+    }
+    #eleventhImageTxt1 {
+        top: 30%;
+        left: 10%;
+        font-size: 40px;
+        line-height: 58px;
+    }
+    #eleventhImageTxt2 {
+        top: 60%;
+        left: 10%;
+        font-size: 40px;
+        line-height: 58px;
+    }
+    .eleventhImagebutton {
+        top: 80%;
+        left: 10%;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #twelthImageDiv {
+        top: 8100px;
+    }
+    #twelthImageTxt1 {
+        top: 25%;
+        left: 5%;
+        font-size: 40px;
+        line-height: 48px;
+    }
+    #twelthImageTxt2 {
+        top: 45%;
+        left: 5%;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    #form {
+        position: relative;
+        top: 100%;
+        width: 100%
+    }
+    #Name {
+        width: 100%;
+    }
+    #industry {
+        width: 100%;
+    }
+    #email {
+        width: 100%;
+    }
+    #submitButton {
+        width: 100%;
+        font-size: medium;
+    }
+    #thirteenthImageDiv {
+        top: 8800px;
+    }
+    #thirteenthImageTxt1 {
+        top: 65%;
+        left: 4%;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .thirteenthImagebutton {
+        top: 65%;
+        left: 65%;
+        padding: .375rem .75rem;
+        font-size: x-small;
+    }
+    .footer {
+        top: 9000px;
+        margin-left: 5%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    #firstImageTxt {
+        /* font: Medium 50px/58px Helvetica Now Display !important; */
+        font-size: 30px;
+        line-height: 38px;
+        top: 170px;
+        left: 60px;
+        width: auto;
+        height: auto;
+    }
+    .firstImageButton {
+        top: 300px;
+        left: 60px;
+        width: auto;
+        height: auto;
+        padding: .375rem .75rem;
+        font-size: x-small;
+    }
+    #thirdImageTxt {
+        font-size: 16px;
+        line-height: 22px;
+        top: 1180px;
+        left: 160px;
+        width: auto;
+        height: auto;
+    }
+    #thirdImageTxt2 {
+        top: 1360px;
+        left: 160px;
+        width: auto;
+        height: auto;
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .thirdImageButton {
+        top: 1400px;
+        left: 160px;
+        width: auto;
+        height: auto;
+        padding: .375rem .75rem;
+        font-size: x-small
+    }
+    #thirdImageTxt31 {
+        top: 1700px;
+        left: 58px;
+        width: auto;
+        height: auto;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #thirdImageTxt32 {
+        top: 1720px;
+        left: 500px;
+        width: auto;
+        height: auto;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    #fourthImage1 {
+        max-width: 50%;
+    }
+    #fourthImage2 {
+        max-width: 50%;
+    }
+    #fourthImageTxt1 {
+        top: 2000px;
+        left: 100px;
+    }
+    #fourthImageTxt2 {
+        top: 2000px;
+        left: 470px;
+    }
+    .videoDiv {
+        top: 2500px;
+        max-width: 85%;
+    }
+    #videoTxt31 {
+        top: 2650px;
+        left: 70px;
+        font-size: 80px;
+        line-height: 90px;
+    }
+    #videoTxt32 {
+        top: 2655px;
+        left: 430px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .videoButton {
+        top: 2780px;
+        left: 430px;
+        width: auto;
+        height: auto;
+        padding: .375rem .75rem;
+        font-size: x-small;
+    }
+    #fifthImageTxt1 {
+        top: 10px;
+        left: 140px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    #fifthImageTxt2 {
+        top: 90px;
+        left: 140px;
+        font-size: 150px;
+        line-height: 32px;
+    }
+    #fifthImageDiv {
+        top: 2950px;
+    }
+    #fifthImageTxt31 {
+        top: 210px;
+        left: 490px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    #fifthImageTxt32 {
+        top: 400px;
+        left: 490px;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    #fifthImageTxt33 {
+        top: 600px;
+        left: 490px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .fifthImagebutton {
+        top: 680px;
+        left: 490px;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #sixthImageDiv {
+        top: 3750px;
+    }
+    #sixthImageTxt1 {
+        top: 10px;
+        left: 40px;
+        font-size: 50px;
+        line-height: 58px;
+    }
+    #sixthImageTxt2 {
+        top: 140px;
+        left: 40px;
+        font-size: 240px;
+        line-height: 22px;
+    }
+    #sixthImageTxt3 {
+        top: 330px;
+        left: 40px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .sixthImagebutton {
+        top: 430px;
+        left: 40px;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #seventhImageDiv {
+        position: absolute;
+        top: 4430px;
+    }
+    #seventhImageTxt1 {
+        top: 50px;
+        left: 80px;
+        font-size: 60px;
+        line-height: 68px;
+    }
+    #seventhImageTxt2 {
+        top: 300px;
+        left: 80px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .seventhImagebutton {
+        padding: .375rem .75rem;
+        font-size: small;
+        top: 450px;
+        left: 80px;
+    }
+    #eightImageDiv {
+        position: absolute;
+        top: 4970px;
+    }
+    #eightImageTxt1 {
+        top: 50px;
+        left: 80px;
+        font-size: 60px;
+        line-height: 68px;
+    }
+    #eightImageTxt2 {
+        top: 300px;
+        left: 80px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .eightImagebutton {
+        padding: .375rem .75rem;
+        font-size: small;
+        top: 470px;
+        left: 80px;
+    }
+    #ninthImageDiv {
+        top: 5500px;
+    }
+    #ninthImageTxt1 {
+        top: 50px;
+        left: 10%;
+        font-size: 60px;
+        line-height: 68px;
+    }
+    #ninthImageTxt2 {
+        top: 300px;
+        left: 40%;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .ninthImagebutton {
+        padding: .375rem .75rem;
+        font-size: small;
+        top: 470px;
+        left: 40%;
+    }
+    #tenthImageDiv {
+        top: 6150px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #tenthImageTxt1 {
+        font-size: 100px;
+        line-height: 32px;
+        top: 20%;
+        left: 5%;
+    }
+    #tenthImageTxt2 {
+        top: 55%;
+        left: 5%;
+        text-align: left;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .tenthImagebutton {
+        top: 87%;
+        left: 5%;
+        padding: .170rem .75rem;
+        font-size: small;
+    }
+    #eleventhImage1 {
+        max-width: 50%;
+    }
+    #eleventhImage2 {
+        max-width: 50%;
+    }
+    .eleventhImageDiv {
+        top: 6700px;
+        max-width: 100%;
+        left: 12%;
+        width: 70%;
+    }
+    #eleventhImageTxt1 {
+        top: 50%;
+        left: 10%;
+        font-size: 40px;
+        line-height: 58px;
+    }
+    #eleventhImageTxt2 {
+        top: 20%;
+        left: 55%;
+        font-size: 40px;
+        line-height: 58px;
+    }
+    .eleventhImagebutton {
+        top: 80%;
+        left: 55%;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #twelthImageDiv {
+        top: 6980px;
+    }
+    #twelthImageTxt1 {
+        top: 25%;
+        left: 5%;
+        font-size: 60px;
+        line-height: 68px;
+    }
+    #twelthImageTxt2 {
+        top: 55%;
+        left: 5%;
+        font-size: 18px;
+        line-height: 22px;
+    }
+    #form {
+        position: absolute;
+        top: 60%;
+        width: 100%
+    }
+    #Name {
+        width: 100%;
+    }
+    #industry {
+        width: 100%;
+    }
+    #email {
+        width: 100%;
+    }
+    #submitButton {
+        width: 100%;
+        font-size: medium;
+    }
+    #thirteenthImageDiv {
+        top: 7600px;
+    }
+    #thirteenthImageTxt1 {
+        top: 65%;
+        left: 4%;
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .thirteenthImagebutton {
+        top: 65%;
+        left: 65%;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    .footer {
+        top: 7800px;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #firstImageTxt {
+        font-size: 40px;
+        line-height: 48px;
+        left: 120px;
+        top: 200px;
+        width: 503px;
+        height: auto;
+    }
+    .firstImageButton {
+        top: 360px;
+        left: 120px;
+        width: auto;
+        height: auto;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #thirdImageTxt {
+        font-size: 26px;
+        line-height: 32px;
+        top: 1320px;
+        left: 180px;
+        width: auto;
+        height: auto;
+    }
+    #thirdImageTxt2 {
+        top: 1550px;
+        left: 180px;
+        width: auto;
+        height: auto;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .thirdImageButton {
+        top: 1620px;
+        left: 180px;
+        width: auto;
+        height: auto;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #thirdImageTxt31 {
+        top: 2000px;
+        left: 58px;
+        width: auto;
+        height: auto;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #thirdImageTxt32 {
+        top: 2020px;
+        left: 650px;
+        width: auto;
+        height: auto;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    #fourthImageTxt1 {
+        top: 2450px;
+        left: 100px;
+    }
+    #fourthImageTxt2 {
+        top: 2450px;
+        left: 550px;
+    }
+    .videoDiv {
+        top: 3000px;
+        max-width: 90%;
+    }
+    #videoTxt31 {
+        top: 3200px;
+        left: 120px;
+        font-size: 110px;
+        line-height: 118px;
+    }
+    #videoTxt32 {
+        top: 3210px;
+        left: 620px;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .videoButton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 3380px;
+        left: 620px;
+    }
+    #fifthImageTxt1 {
+        top: 10px;
+        left: 162px;
+        font-size: 46px;
+        line-height: 52px;
+    }
+    #fifthImageTxt2 {
+        top: 100px;
+        left: 162px;
+        font-size: 200px;
+        line-height: 52px;
+    }
+    #fifthImageDiv {
+        top: 3600px;
+    }
+    #fifthImageTxt31 {
+        top: 240px;
+        left: 650px;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    #fifthImageTxt32 {
+        top: 430px;
+        left: 650px;
+        font-size: 40px;
+        line-height: 65px;
+    }
+    #fifthImageTxt33 {
+        top: 650px;
+        left: 650px;
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .fifthImagebutton {
+        top: 740px;
+        left: 650px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #sixthImageDiv {
+        top: 4500px;
+    }
+    #sixthImageTxt1 {
+        top: 10px;
+        left: 80px;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #sixthImageTxt2 {
+        top: 170px;
+        left: 80px;
+        font-size: 300px;
+        line-height: 32px;
+    }
+    #sixthImageTxt3 {
+        top: 400px;
+        left: 80px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .sixthImagebutton {
+        top: 600px;
+        left: 80px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #seventhImageDiv {
+        position: absolute;
+        top: 5400px;
+    }
+    #seventhImageTxt1 {
+        top: 50px;
+        left: 100px;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #seventhImageTxt2 {
+        top: 400px;
+        left: 100px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .seventhImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 600px;
+        left: 100px;
+    }
+    #eightImageDiv {
+        position: absolute;
+        top: 6120px;
+    }
+    #eightImageTxt1 {
+        top: 50px;
+        left: 100px;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #eightImageTxt2 {
+        top: 400px;
+        left: 100px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .eightImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 620px;
+        left: 100px;
+    }
+    #ninthImageDiv {
+        top: 6840px;
+    }
+    #ninthImageTxt1 {
+        top: 100px;
+        left: 10%;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #ninthImageTxt2 {
+        top: 400px;
+        left: 40%;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .ninthImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 600px;
+        left: 40%;
+    }
+    #tenthImageDiv {
+        top: 7700px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #tenthImageTxt1 {
+        font-size: 160px;
+        line-height: 52px;
+        top: 20%;
+        left: 5%;
+    }
+    #tenthImageTxt2 {
+        top: 55%;
+        left: 5%;
+        text-align: left;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .tenthImagebutton {
+        top: 85%;
+        left: 5%;
+        padding: .200rem .75rem;
+        font-size: medium;
+    }
+    #eleventhImage1 {
+        max-width: 50%;
+    }
+    #eleventhImage2 {
+        max-width: 50%;
+    }
+    .eleventhImageDiv {
+        top: 8400px;
+        max-width: 100%;
+        left: 12%;
+        width: 70%;
+    }
+    #eleventhImageTxt1 {
+        top: 50%;
+        left: 10%;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #eleventhImageTxt2 {
+        top: 20%;
+        left: 55%;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    .eleventhImagebutton {
+        top: 80%;
+        left: 55%;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #twelthImageDiv {
+        top: 8760px;
+    }
+    #twelthImageTxt1 {
+        top: 25%;
+        left: 5%;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #twelthImageTxt2 {
+        top: 55%;
+        left: 5%;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    #thirteenthImageDiv {
+        top: 9500px;
+    }
+    #thirteenthImageTxt1 {
+        top: 65%;
+        left: 4%;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .thirteenthImagebutton {
+        top: 65%;
+        left: 65%;
+        padding: .375rem .75rem;
+    }
+    .footer {
+        top: 9800px;
+        margin-left: 10%;
+    }
+
+   
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+   
+    #firstImageTxt {
+        font-size: 40px;
+        line-height: 48px;
+        left: 120px;
+        top: 200px;
+        width: 503px;
+        height: auto;
+    }
+    .firstImageButton {
+        top: 360px;
+        left: 120px;
+        width: auto;
+        height: auto;
+        padding: .375rem .75rem;
+        font-size: small;
+    }
+    #thirdImageTxt {
+        font-size: 36px;
+        line-height: 42px;
+        top: 1430px;
+        left: 160px;
+        width: auto;
+        height: auto;
+    }
+    #thirdImageTxt2 {
+        top: 1724px;
+        left: 160px;
+        width: auto;
+        height: auto;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .thirdImageButton {
+        top: 1800px;
+        left: 160px;
+        width: auto;
+        height: auto;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #thirdImageTxt31 {
+        top: 2300px;
+        left: 150px;
+        width: auto;
+        height: auto;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #thirdImageTxt32 {
+        top: 2320px;
+        left: 750px;
+        width: auto;
+        height: auto;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    #fourthImageTxt1 {
+        top: 2750px;
+        left: 150px;
+    }
+    #fourthImageTxt2 {
+        top: 2750px;
+        left: 600px;
+    }
+    .videoDiv {
+        top: 3300px;
+        max-width: 90%;
+    }
+    #videoTxt31 {
+        top: 3600px;
+        left: 120px;
+        font-size: 110px;
+        line-height: 118px;
+    }
+    #videoTxt32 {
+        top: 3650px;
+        left: 730px;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .videoButton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 3800px;
+        left: 730px;
+    }
+    #fifthImageTxt1 {
+        top: 10px;
+        left: 80px;
+        font-size: 46px;
+        line-height: 52px;
+    }
+    #fifthImageTxt2 {
+        top: 100px;
+        left: 80px;
+        font-size: 200px;
+        line-height: 52px;
+    }
+    #fifthImageDiv {
+        top: 4000px;
+    }
+    #fifthImageTxt31 {
+        top: 240px;
+        left: 850px;
+        font-size: 22px;
+        line-height: 26px;
+    }
+    #fifthImageTxt32 {
+        top: 430px;
+        left: 850px;
+        font-size: 40px;
+        line-height: 65px;
+    }
+    #fifthImageTxt33 {
+        top: 650px;
+        left: 850px;
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .fifthImagebutton {
+        top: 740px;
+        left: 850px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #sixthImageDiv {
+        top: 4900px;
+    }
+    #sixthImageTxt1 {
+        top: 10px;
+        left: 80px;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #sixthImageTxt2 {
+        top: 170px;
+        left: 80px;
+        font-size: 300px;
+        line-height: 32px;
+    }
+    #sixthImageTxt3 {
+        top: 400px;
+        left: 80px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .sixthImagebutton {
+        top: 600px;
+        left: 80px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #seventhImageDiv {
+        position: absolute;
+        top: 6000px;
+    }
+    #seventhImageTxt1 {
+        top: 50px;
+        left: 100px;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #seventhImageTxt2 {
+        top: 400px;
+        left: 100px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .seventhImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 600px;
+        left: 100px;
+    }
+    #eightImageDiv {
+        position: absolute;
+        top: 6850px;
+    }
+    #eightImageTxt1 {
+        top: 50px;
+        left: 100px;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #eightImageTxt2 {
+        top: 400px;
+        left: 100px;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .eightImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 620px;
+        left: 100px;
+    }
+    #ninthImageDiv {
+        top: 7700px;
+    }
+    #ninthImageTxt1 {
+        top: 100px;
+        left: 10%;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #ninthImageTxt2 {
+        top: 400px;
+        left: 40%;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .ninthImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 600px;
+        left: 40%;
+    }
+    #tenthImageDiv {
+        top: 8700px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #tenthImageTxt1 {
+        font-size: 160px;
+        line-height: 52px;
+        top: 20%;
+        left: 5%;
+    }
+    #tenthImageTxt2 {
+        top: 55%;
+        left: 5%;
+        text-align: left;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .tenthImagebutton {
+        top: 85%;
+        left: 5%;
+        padding: .200rem .75rem;
+        font-size: medium;
+    }
+    #eleventhImage1 {
+        max-width: 50%;
+    }
+    #eleventhImage2 {
+        max-width: 50%;
+    }
+    .eleventhImageDiv {
+        top: 9500px;
+        max-width: 100%;
+        left: 12%;
+        width: 70%;
+    }
+    #eleventhImageTxt1 {
+        top: 50%;
+        left: 10%;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #eleventhImageTxt2 {
+        top: 20%;
+        left: 55%;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    .eleventhImagebutton {
+        top: 80%;
+        left: 55%;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #twelthImageDiv {
+        top: 9925px;
+    }
+    #twelthImageTxt1 {
+        top: 25%;
+        left: 5%;
+        font-size: 70px;
+        line-height: 78px;
+    }
+    #twelthImageTxt2 {
+        top: 55%;
+        left: 5%;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    #thirteenthImageDiv {
+        top: 10800px;
+    }
+    #thirteenthImageTxt1 {
+        top: 65%;
+        left: 4%;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .thirteenthImagebutton {
+        top: 65%;
+        left: 65%;
+        padding: .375rem .75rem;
+    }
+    .footer {
+        top: 11150px;
+        margin-left: 10%;
+    }
+    
+  }
+/* ---- */
+
+
+
+@media only screen and (min-width: 1440px) {
+    #firstImageTxt {
+        /* font: Medium 50px/58px Helvetica Now Display !important; */
+        font-size: 50px;
+        line-height: 58px;
+        left: 174px;
+        top: 269px;
+        width: 503px;
+        height: 201px;
+    }
+    .firstImageButton {
+        top: 481px;
+        left: 174px;
+        width: 203px;
+        height: 41px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+
+    #thirdImageTxt {
+        font-size: 46px;
+        line-height: 52px;
+        top: 1659px;
+        left: 168px;
+        width: 683px;
+        height: 293px;
+    }
+    #thirdImageTxt2 {
+        top: 2000px;
+        left: 168px;
+        width: 364px;
+        height: 65px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .thirdImageButton {
+        top: 2100px;
+        left: 168px;
+        width: 147px;
+        height: 41px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #thirdImageTxt31 {
+        top: 2558px;
+        left: 168px;
+        width: 525px;
+        height: 222px;
+        font-size: 80px;
+        line-height: 88px;
+    }
+    #thirdImageTxt32 {
+        top: 2580px;
+        left: 920px;
+        width: 352px;
+        height: 221px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    #fourthImageTxt1 {
+        top: 3200px;
+        left: 280px;
+    }
+    #fourthImageTxt2 {
+        top: 3200px;
+        left: 750px;
+    }
+    .videoDiv {
+        position: absolute;
+        top: 3800px;
+        max-width: 75%;
+    }
+    #videoTxt31 {
+        top: 4100px;
+        left: 255px;
+        font-size: 120px;
+        line-height: 128px;
+    }
+    #videoTxt32 {
+        top: 4100px;
+        left: 826px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .videoButton {
+        top: 4300px;
+        left: 826px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #fifthImageTxt1 {
+        top: 10px;
+        left: 162px;
+        font-size: 46px;
+        line-height: 52px;
+    }
+    #fifthImageTxt2 {
+        top: 100px;
+        left: 162px;
+        font-size: 200px;
+        line-height: 52px;
+    }
+    #fifthImageDiv {
+        top: 4536px;
+    }
+    #fifthImageTxt31 {
+        top: 200px;
+        left: 920px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    #fifthImageTxt32 {
+        top: 410px;
+        left: 920px;
+        font-size: 46px;
+        line-height: 72px;
+    }
+    #fifthImageTxt33 {
+        top: 650px;
+        left: 920px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .fifthImagebutton {
+        top: 750px;
+        left: 920px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #sixthImageDiv {
+        top: 5600px;
+    }
+    #sixthImageTxt1 {
+        top: 10px;
+        left: 100px;
+        font-size: 80px;
+        line-height: 88px;
+    }
+    #sixthImageTxt2 {
+        top: 170px;
+        left: 100px;
+        font-size: 350px;
+        line-height: 52px;
+    }
+    #sixthImageTxt3 {
+        top: 400px;
+        left: 100px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .sixthImagebutton {
+        top: 600px;
+        left: 100px;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #seventhImageDiv {
+        position: absolute;
+        top: 6840px;
+    }
+    #seventhImageTxt1 {
+        top: 100px;
+        left: 168px;
+        font-size: 80px;
+        line-height: 88px;
+    }
+    #seventhImageTxt2 {
+        top: 600px;
+        left: 168px;
+        font-size: 46px;
+        line-height: 52px;
+    }
+    .seventhImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 850px;
+        left: 168px;
+    }
+    #eightImageDiv {
+        position: absolute;
+        top: 7850px;
+    }
+    #eightImageTxt1 {
+        top: 100px;
+        left: 168px;
+        font-size: 80px;
+        line-height: 88px;
+    }
+    #eightImageTxt2 {
+        top: 600px;
+        left: 168px;
+        font-size: 46px;
+        line-height: 52px;
+    }
+    .eightImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 900px;
+        left: 168px;
+    }
+    #ninthImageDiv {
+        top: 8860px;
+    }
+    #ninthImageTxt1 {
+        top: 100px;
+        left: 168px;
+        font-size: 80px;
+        line-height: 88px;
+    }
+    #ninthImageTxt2 {
+        top: 600px;
+        left: 600px;
+        font-size: 46px;
+        line-height: 52px;
+    }
+    .ninthImagebutton {
+        padding: .375rem .75rem;
+        font-size: medium;
+        top: 900px;
+        left: 600px;
+    }
+    #tenthImageDiv {
+        top: 10000px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #tenthImageTxt1 {
+        font-size: 160px;
+        line-height: 52px;
+        top: 20%;
+        left: 4%;
+    }
+    #tenthImageTxt2 {
+        top: 55%;
+        left: 4%;
+        text-align: left;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .tenthImagebutton {
+        top: 85%;
+        left: 4%;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #eleventhImage1 {
+        max-width: 50%;
+    }
+    #eleventhImage2 {
+        max-width: 50%;
+    }
+    .eleventhImageDiv {
+        top: 11000px;
+        max-width: 100%;
+        left: 12%;
+        width: 70%;
+    }
+    #eleventhImageTxt1 {
+        top: 50%;
+        left: 10%;
+        font-size: 80px;
+        line-height: 88px;
+    }
+    #eleventhImageTxt2 {
+        top: 20%;
+        left: 55%;
+        font-size: 80px;
+        line-height: 88px;
+    }
+    .eleventhImagebutton {
+        top: 80%;
+        left: 55%;
+        padding: .375rem .75rem;
+        font-size: medium;
+    }
+    #twelthImageDiv {
+        top: 11500px;
+    }
+    #twelthImageTxt1 {
+        top: 25%;
+        left: 10%;
+        font-size: 80px;
+        line-height: 88px;
+    }
+    #twelthImageTxt2 {
+        top: 50%;
+        left: 10%;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    #form {
+        position: absolute;
+        top: 65%;
+        width: 100%
+    }
+    #Name {
+        width: 100%;
+    }
+    #industry {
+        width: 100%;
+    }
+    #email {
+        width: 100%;
+    }
+    #submitButton {
+        width: 50%;
+        font-size: medium;
+    }
+    #thirteenthImageDiv {
+        top: 12600px;
+    }
+    #thirteenthImageTxt1 {
+        top: 65%;
+        left: 4%;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .thirteenthImagebutton {
+        top: 65%;
+        left: 65%;
+        padding: .375rem .75rem;
+    }
+    .footer {
+        top: 13000px;
+        margin-left: 10%;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 1.50rem;
+        padding-left: 1.50rem;
+    }
+    /* .navbar-expand-lg .navbar-nav .navSmallLink {
+        float: right;
+    } */
+}
+
+/*  media query ends here */
